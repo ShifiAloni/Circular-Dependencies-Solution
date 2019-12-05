@@ -1,0 +1,7 @@
+C:\Users\shifra_al\source\repos\Circular-Dependencies-Solution\Circular-Dependencies-Solution\bin\Debug\Circular-Dependencies-Solution.exe.config
+C:\Users\shifra_al\source\repos\Circular-Dependencies-Solution\Circular-Dependencies-Solution\bin\Debug\Circular-Dependencies-Solution.exe
+C:\Users\shifra_al\source\repos\Circular-Dependencies-Solution\Circular-Dependencies-Solution\bin\Debug\Circular-Dependencies-Solution.pdb
+C:\Users\shifra_al\source\repos\Circular-Dependencies-Solution\Circular-Dependencies-Solution\obj\Debug\Circular-Dependencies-Solution.csprojAssemblyReference.cache
+C:\Users\shifra_al\source\repos\Circular-Dependencies-Solution\Circular-Dependencies-Solution\obj\Debug\Circular-Dependencies-Solution.csproj.CoreCompileInputs.cache
+C:\Users\shifra_al\source\repos\Circular-Dependencies-Solution\Circular-Dependencies-Solution\obj\Debug\Circular-Dependencies-Solution.exe
+C:\Users\shifra_al\source\repos\Circular-Dependencies-Solution\Circular-Dependencies-Solution\obj\Debug\Circular-Dependencies-Solution.pdb
